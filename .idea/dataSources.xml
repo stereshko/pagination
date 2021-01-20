@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="pagination@localhost" uuid="1a004c1b-10f5-42be-8aac-472d69a2d035">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pagination</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <time-zone>Europe/Moscow</time-zone>
+    </data-source>
+  </component>
+</project>
